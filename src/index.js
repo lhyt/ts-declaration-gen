@@ -46,5 +46,4 @@ function declarationGen(o) {
 	return myStringify(transformSchema(o));
 }
 
-export default declarationGen;
 if (module) module.exports = declarationGen;
