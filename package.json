@@ -2,7 +2,7 @@
   "name": "ts-declaration-gen",
   "version": "1.0.0",
   "description": "a generator of ts declaration",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server --hot --inline --cache --devtool eval --port 666",
