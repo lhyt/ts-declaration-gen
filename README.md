@@ -55,7 +55,6 @@ declarationGen({
 
 ## 📺background
 when writing typescript,we have allready known a json.however,we must write the declaration line and line,that's so difficult.so,there is a little tool to fix it.
-写ts的时候，总是知道了一个数据结构，但要一行行地写类型，很麻烦，因此做了一个小工具解决此问题
 
 ## 🔧usage
 ```javascript
